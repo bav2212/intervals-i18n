@@ -92,7 +92,7 @@
   "account_will_be_made_dormant": "由于长时间未活动，您的账户即将被设为休眠状态，新的活动将不再被处理。您可以通过在接下来的 {0} 天内访问 Intervals.icu 并登录来避免此情况。",
   "Accurate Elevation": "精确爬升",
   "accurate_device_elevation_help": "如果您知道{n}是否配备有气压高度计，请回答是或否。请注意，仅使用GPS测量海拔的设备不够准确。",
-  "Achievements": "成就成就",
+  "Achievements": "成就",
   "Actions": "操作",
   "Active": "活跃天数",
   "activities": "活动",
